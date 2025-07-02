@@ -1,5 +1,5 @@
 # Array 
-| File   | Lwvel      | 
+| File   | Level      | 
 |:------:|:----------:|
 | 1      | Easy       | 
 | 2      | Easy       | 
